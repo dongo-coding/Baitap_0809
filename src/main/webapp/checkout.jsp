@@ -2,7 +2,7 @@
         <%@ taglib prefix="c" uri="jakarta.tags.core" %>
         <%@ taglib prefix="fmt" uri="jakarta.tags.fmt" %>
 
-
+        <fmt:setLocale value="en_US"/>
         <!DOCTYPE html>
         <html>
         <head>
